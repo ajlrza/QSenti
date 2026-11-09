@@ -1,5 +1,5 @@
 # QSenti [WIP]
-A lightweight slot-based logger for LLM apps that batches conversations, scores each message’s sentiment with VADER, and rates overall session health using quantum-inspired interference.
+A lightweight sentiment classifier for LLM sessions that batches conversations, scores each message’s sentiment with VADER, and rates overall session health using quantum-inspired interference.
 
 # Example
 
